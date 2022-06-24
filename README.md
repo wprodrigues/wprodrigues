@@ -1,3 +1,11 @@
+<p align='center'>
+<a href="https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/youtube.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wprodrigues/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/profwagnerrodrigues" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/wprodriguesbr" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/wprodriguesbr/" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/facebook.png"></a>&nbsp;&nbsp;
+</p>
+
 ## Olá, eu sou Wagner Rodrigues 👋
 ### 😍 Um apaixonado educador e empreendedor (Hackids) <a href="https://www.hackids.com.br/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>, pai, professor e desenvolvedor no Brasil
 
@@ -16,9 +24,6 @@
 📕 - Escrevi o livro [**Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
 💡 - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
-
-#### Here some of my social:
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/wprodriguesbr) [<img src ="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wprodrigues/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/profwagnerrodrigues/)
 
 
 ![Wagner Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=wprodrigues&layout=compact&theme=default&show_icons=true&count_private=true&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&langs_count=8&theme=default&exclude_repo=openauto,RespirAR-DIY,Stat_Cache,caltech-lane-detection,librekinect)](https://github.com/anuraghazra/github-readme-stats)
