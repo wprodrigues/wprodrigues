@@ -1,5 +1,5 @@
 ## Olá, eu sou Wagner Rodrigues 👋
-### 😍 Um apaixonado educador e empreendedor na [Hackids](https://www.hackids.com.br, pai, professor e desenvolvedor no Brasil
+### 😍 Um apaixonado educador e empreendedor na [Hackids](https://www.hackids.com.br), pai, professor e desenvolvedor no Brasil
 
 <p align='center'>
 <a href="https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/youtube.png"></a>&nbsp;&nbsp;
