@@ -25,9 +25,10 @@
 
 💡 - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
 
-https://github-readme-stats.vercel.app/api?username=wprodrigues
 
-![Wagner Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=wprodrigues&layout=compact&theme=default&show_icons=true&count_private=true&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&langs_count=8&theme=default&exclude_repo=openauto,RespirAR-DIY,Stat_Cache,caltech-lane-detection,librekinect)](https://github.com/anuraghazra/github-readme-stats)
+![Wagner Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=wprodrigues&layout=compact&theme=default&show_icons=true&count_private=true&line_height=24)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&langs_count=8&theme=default&exclude_repo=openauto,RespirAR-DIY,Stat_Cache,caltech-lane-detection,librekinect)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="r3df00t-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
