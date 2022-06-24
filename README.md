@@ -34,7 +34,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/wprodrigues/wprodrigues.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=wprodrigues.github.io&theme=buefy" />
 </a>
 
 <div style="display: inline_block"><br>
