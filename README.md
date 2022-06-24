@@ -28,15 +28,6 @@
 | <a href="https://github.com/wprodrigues/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wprodrigues&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wagner Rodrigues github stats" /></a> | <a href="https://github.com/wprodrigues/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/wprodrigues/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/wprodrigues/wprodrigues.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=wprodrigues.github.io&theme=buefy" />
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="r3df00t-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="r3df00t-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
