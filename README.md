@@ -10,9 +10,11 @@
 
 💻 - Some technologies I enjoy working with include Python & Micropython, JavaScript, Typescript, Processing, Lua
 
-🏫 - I’m currently working on [Hackids Education](https://instagram.com/hackidsedu)
-💬 - I´m relularly at Universidade Positivo
 
+
+🏫 - I’m currently working on [Hackids Education](https://instagram.com/hackidsedu)
+
+💬 - I´m relularly at Universidade Positivo
 
 
 #### Here some of my social:
@@ -20,3 +22,14 @@
 
 
 ![Wagner Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=wprodrigues&layout=compact&theme=default&show_icons=true&count_private=true&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&langs_count=8&theme=default&exclude_repo=openauto,RespirAR-DIY,Stat_Cache,caltech-lane-detection,librekinect)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="r3df00t-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="r3df00t-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="r3df00t-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="r3df00t-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="r3df00t-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="r3df00t-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="r3df00t-Processing" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-plain.svg">  
+  
+</div>
