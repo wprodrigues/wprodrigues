@@ -37,5 +37,4 @@
   <img align="center" alt="r3df00t-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="r3df00t-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="r3df00t-Processing" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-plain.svg">  
- 
 </div>
