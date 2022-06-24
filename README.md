@@ -30,15 +30,12 @@
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/wprodrigues/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/wprodrigues/wprodrigues.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wprodrigues&repo=anuraghazra.github.io&theme=buefy" />
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&langs_count=8&theme=default&exclude_repo=openauto,RespirAR-DIY,Stat_Cache,caltech-lane-detection,librekinect)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="r3df00t-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
