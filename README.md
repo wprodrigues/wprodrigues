@@ -1,13 +1,13 @@
-<p align='center'>
-<a href="https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/youtube.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/wprodrigues/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/profwagnerrodrigues" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/wprodriguesbr" target="_blank"><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/wprodriguesbr/" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/FBSeletronica/FBSeletronica/master/imagens/facebook.png"></a>&nbsp;&nbsp;
-</p>
-
 ## Olá, eu sou Wagner Rodrigues 👋
 ### 😍 Um apaixonado educador e empreendedor (Hackids) <a href="https://www.hackids.com.br/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>, pai, professor e desenvolvedor no Brasil
+
+<p align='center'>
+<a href="https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/youtube.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wprodrigues/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/profwagnerrodrigues" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/wprodriguesbr" target="_blank"><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/wprodriguesbr/" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/wprodrigues/wprodrigues/master/imagens/facebook.png"></a>&nbsp;&nbsp;
+</p>
 
 🤖 Hacks & Robots | 👾 Code & Bricks | 🧙‍♂️ Creator of instructions | 🕵️‍ STEM Educator
 
