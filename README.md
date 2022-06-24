@@ -10,11 +10,13 @@
 
 💻 - Algumas tecnologias que tenho usados incluem BBC micro:bit, ESP, Raspberry, Python & Micropython, JavaScript, Typescript, Processing, Lua
 
-🏫 - Atualmente divido meu trabalho na [Hackids Education](https://instagram.com/hackidsedu)
+🏫 - Atualmente divido meu trabalho na [**Hackids Education**](https://instagram.com/hackidsedu)
 
 💬 - Regurlamente você pode me encontrar na Universidade Positivo
 
 📝 - Escrevi o livro [**Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
+
+🧙‍ - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
 
 #### Here some of my social:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/wprodriguesbr) [<img src ="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wprodrigues/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/profwagnerrodrigues/)
