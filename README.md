@@ -14,7 +14,7 @@
 
 💬 - Regurlamente você pode me encontrar na Universidade Positivo
 
-📝 - Escrevi o livro <a **Progrando jogos com micro:bit** href="https://hackids.com.br/book-programando-jogos-com-microbit/"></a>
+📝 - Escrevi o livro [**Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
 #### Here some of my social:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/wprodriguesbr) [<img src ="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC7mPXEnVO7fOGSVfSHEMlFw)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wprodrigues/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/profwagnerrodrigues/)
@@ -31,17 +31,5 @@
   <img align="center" alt="r3df00t-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="r3df00t-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="r3df00t-Processing" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-plain.svg">  
-
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="r3df00t-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//arduino/arduino-plain-wordmark.svg">
-  <img align="center" alt="r3df00t-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="r3df00t-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="r3df00t-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="r3df00t-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="r3df00t-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="r3df00t-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="r3df00t-Processing" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-plain.svg">  
-
-  
+ 
 </div>
