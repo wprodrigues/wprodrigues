@@ -25,7 +25,7 @@
 
 💡 - Atuo no desenvolvimento da placa de expansão [**hack:bit**](https://hackids.com.br/hackbit/) para a BBC micro:bit 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wprodrigues&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="Wagner Rodrigues github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&theme=algolia&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wprodrigues&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Wagner Rodrigues github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprodrigues&layout=compact&theme=algolia&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div style="display: inline_block"><br>
